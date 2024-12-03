@@ -1,7 +1,3 @@
-Here’s an improved version of your `README.md`:
-
----
-
 # Priyesh Pandey - Full-Stack Developer & AI Enthusiast
 
 Welcome to my GitHub! I'm Priyesh, a passionate full-stack developer with a focus on backend development and AI. With a strong foundation in Django and Django REST Framework (DRF), I integrate AI technologies to create innovative solutions that solve real-world problems.
@@ -38,6 +34,3 @@ I believe in creating high-impact projects through a combination of strong backe
 
 Feel free to explore my repositories, contribute, or connect!
 
----
-
-Let me know if you'd like any adjustments!
