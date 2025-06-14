@@ -32,5 +32,9 @@ Welcome to my GitHub! I'm Priyesh, a passionate full-stack developer with a focu
 
 I believe in creating high-impact projects through a combination of strong backend development and cutting-edge technologies. Whether working solo or leading a team, my focus remains on innovation, learning, and solving problems with technology.
 
+## My Portfolio
+
+visit me at: https://priyeshpandey.in/blogs
+
 Feel free to explore my repositories, contribute, or connect!
 
